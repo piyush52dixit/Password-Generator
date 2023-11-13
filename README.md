@@ -1,3 +1,14 @@
+
+
+![password-img](https://github.com/piyush52dixit/Password-Generator/assets/138889876/25206e53-6b00-4254-874b-cbe6f4580361)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
